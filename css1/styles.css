@@ -20,7 +20,7 @@ h3{
 .main{
     background-color: aquamarine;
     margin: 0px;
-    height: 600px;
+    height: 700px;
     margin-right: 0px;
 }
 .h11{
@@ -40,11 +40,8 @@ span{
     font-style: oblique;
 }
 .div1{
-    background-color: aqua;
     display: inline-block;
-    width: 250px;
-    height: 40px;
-    margin: 50px 20px;
+    margin: 80px 80px;
 }
 .h22{
     position: relative;
@@ -60,8 +57,9 @@ span{
     text-align: center;
     position: relative;
     top: 100px;
-    line-height: 3;
-    font-weight:larger;
+    bottom: 10px;
+    line-height: 1;
+    font-weight:large;
 
 
 }
@@ -70,7 +68,11 @@ span{
     background-color: white;
     position: relative;
     left: 0px;
-    margin-top: 100px;
+    margin-top: 300px;
+}
+.main4{
+    position: relative;
+    top: 200px;
 }
 .img3{
     width: 20%;
